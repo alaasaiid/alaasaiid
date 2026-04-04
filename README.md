@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Alaa Said
+Data Science Engineering Student @ ESPRIT | Aspiring Tech Entrepreneur
 
-<!--
-**alaasaiid/alaasaiid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building end-to-end Data Science solutions, from low-level network security analysis to high-level predictive modeling in Agri-Tech.
 
-Here are some ideas to get you started:
+**Core Project**: Smart Agriculture Ecosystem
+Currently developing an AI-driven platform for Tunisian farmers involving:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Predictive Analytics: Crop yields, livestock health, and milk production.
+
+Computer Vision: Plant disease detection.
+
+IoT Integration: Real-time sensor data processing.
+
+Note: Many of my repositories are active R&D projects for my engineering cycle and are updated iteratively.
+
+**Tech Stack**
+Data: Python (Pandas, Scikit-learn), SQL, R, PowerBI.
+
+Dev: Java, Symfony, FlutterFlow.
+
+Security: Network traffic analysis & IPS monitoring.
