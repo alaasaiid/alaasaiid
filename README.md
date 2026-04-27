@@ -1,9 +1,10 @@
 Hi, I'm Alaa Said
 Data Science Engineering Student @ ESPRIT | Aspiring Tech Entrepreneur
 
-I specialize in building end-to-end Data Science solutions, from low-level network security analysis to high-level predictive modeling in Agri-Tech.
+I specialize in building end-to-end Data Science solutions, from low-level network security analysis to high-level predictive modeles
 
-**Core Project**: Smart Agriculture Ecosystem
+
+**Core Project**: Smart Agriculture Ecosystem (first real serious project)
 Currently developing an AI-driven platform for Tunisian farmers involving:
 
 Predictive Analytics: Crop yields, livestock health, and milk production.
@@ -20,3 +21,5 @@ Data: Python (Pandas, Scikit-learn), SQL, R, PowerBI.
 Dev: Java, Symfony, FlutterFlow.
 
 Security: Network traffic analysis & IPS monitoring.
+
+
