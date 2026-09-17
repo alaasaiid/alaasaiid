@@ -1,25 +1,12 @@
-Hi, I'm Alaa Said
-Data Science Engineering Student @ ESPRIT | Aspiring Tech Entrepreneur
+Hi, I’m Alaa Said
 
-I specialize in building end-to-end Data Science solutions, from low-level network security analysis to high-level predictive modeles
+I’m currently a student at ESPRIT, pursuing a degree in Data Science Engineering.
 
+My expertise includes development of full-stack Machine Learning Solutions and applications, Cloud-Based Data Processing and Retrieval Systems, and Data Pipelines.
 
-**Core Project**: Smart Agriculture Ecosystem (first real serious project)
-Currently developing an AI-driven platform for Tunisian farmers involving:
+ I am passionate about Machine Learning and its applications. Currently my interests lies within the following:
+-MLOps: Utilizing Polars and ONNX Runtime with FastAPI in order to develop REST APIs and microservices.
+-Vector Search: Recommendation Systems and BM25 hybrid search.
+-Data Engineering: ETL Pipelines and Database Orchestration with Qdrant and PostgreSQL.
 
-Predictive Analytics: Crop yields, livestock health, and milk production.
-
-Computer Vision: Plant disease detection.
-
-IoT Integration: Real-time sensor data processing.
-
-Note: Many of my repositories are active R&D projects for my engineering cycle and are updated iteratively.
-
-**Tech Stack**
-Data: Python (Pandas, Scikit-learn), SQL, R, PowerBI.
-
-Dev: Java, Symfony, FlutterFlow.
-
-Security: Network traffic analysis & IPS monitoring.
-
-
+My priority is to complete a PFE/Master Thesis of 6 months starting January 2027.
