@@ -14,8 +14,8 @@
 ---
 
 ### Key Projects (Production-Ready)
-1. 🛠️ **[Project-Name-1](link)** — End-to-end RAG pipeline built with FastAPI, LangChain, and Qdrant. Deployed on Hugging Face Spaces.
-2. ⚡ **[Project-Name-2](link)** — Real-time MLOps pipeline for churn prediction using PyTorch, MLflow tracking, and Dockerized inference.
+1. **[Project-Name-1](link)** — End-to-end RAG pipeline built with FastAPI, LangChain, and Qdrant. Deployed on Hugging Face Spaces.
+2. **[Project-Name-2](link)** — Real-time MLOps pipeline for churn prediction using PyTorch, MLflow tracking, and Dockerized inference.
 
 ---
 
