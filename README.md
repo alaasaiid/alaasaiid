@@ -1,6 +1,6 @@
 # Hi, I'm Alaa Said
 **Data Science & MLOps Student @ ESPRIT** | Seeking 6-Month International PFE (Feb–Jul 2027)
-📍 Tunis, Tunisia → Target: France / Belgium 
+📍 Currently based in Tunis, Tunisia
 alaa.said.work@gmail.com | https://www.linkedin.com/in/alaasaiid/
 
 ---
