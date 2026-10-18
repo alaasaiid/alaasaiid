@@ -6,10 +6,10 @@ alaa.said.work@gmail.com | https://www.linkedin.com/in/alaasaiid/
 ---
 
 ### Technical Focus & Core Stack
-- **Languages:** Python (Advanced OOP, Async), SQL, C++
-- **ML & Deep Learning:** PyTorch, Scikit-Learn, XGBoost, Transformers (Hugging Face)
-- **MLOps & Engineering:** Docker, FastAPI, MLflow, GitHub Actions CI/CD, DVC
-- **Data Engineering & Vector DBs:** PostgreSQL, Qdrant, Pinecone, Redis
+- **Data engineering**: Python, SQL, Pandas, Polars, Pydantic, JSONL Schema Validation, PostgreSQL, Bash
+- **MLOps & DevOps**: FastAPI, Docker, ONNX Runtime (INT8 Quantization), MLflow, GitHub Actions, GitLab CI/CD, pytest, Linux
+- **ML & Algorithms**: scikit-learn, LightGBM (LambdaRank), XGBoost, Random Forest, K-NN, PyTorch
+- **Retrieval, NLP & Multimodal**: Hybrid Search (BM25 + Dense RRF), Qdrant, Sentence-Transformers, OpenCLIP, Entity Linking (UMLS)
 
 ---
 
